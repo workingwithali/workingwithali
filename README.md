@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://www.linkedin.com/in/workingwithali/)
 <h1 align="center">Hi 👋, I'm Ali Rashid</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU"](https://camo.githubusercontent.com/e8e7874b6cc5d172ffcef8d9d50a3a3371fe6b757d68af6574fc9afc70025340/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34323164346564326633643233633733643634643230393633663631663432322e676966)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workingwithali&label=Profile%20views&color=0e75b6&style=flat" alt="workingwithali" /> </p>
 

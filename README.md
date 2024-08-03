@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **alirashid2020e@gamil.com**
 

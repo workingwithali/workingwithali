@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/workingwithali" target="blank"><img src="https://img.shields.io/twitter/follow/workingwithali?logo=twitter&style=for-the-badge" alt="workingwithali" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **MERN stack**
 

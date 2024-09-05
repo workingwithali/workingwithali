@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)](https://www.linkedin.com/in/workingwithali/)
+[![MasterHead](https://ww.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)](https://www.linkedin.com/in/workingwithali/)
 <h1 align="center">Hi 👋, I'm Ali Rashid</h1>
 <h3 align="center">Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e8e7874b6cc5d172ffcef8d9d50a3a3371fe6b757d68af6574fc9afc70025340/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34323164346564326633643233633733643634643230393633663631663432322e676966">

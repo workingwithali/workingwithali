@@ -14,9 +14,9 @@
 ## 🏷️ Profile Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0A192F&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=workingwithali&color=0A192F&style=flat" />
+  <img src="https://img.shields.io/github/followers/workingwithali?style=social" />
+  <img src="https://img.shields.io/github/stars/workingwithali?style=social" />
 </p>
 
 ---

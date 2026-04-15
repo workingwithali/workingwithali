@@ -1,33 +1,138 @@
-![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/themes/sevenstar/img/banner-bg.gif)(https://www.linkedin.com/in/workingwithali/)
-<h1 align="center">Hi 👋, I'm Ali Rashid</h1>
-<h3 align="center">Software Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e8e7874b6cc5d172ffcef8d9d50a3a3371fe6b757d68af6574fc9afc70025340/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934393733362f6d656469612f34323164346564326633643233633733643634643230393633663631663432322e676966">
+# 🧠 Research & Insights
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=workingwithali&label=Profile%20views&color=0e75b6&style=flat" alt="workingwithali" /> </p>
-
-<p align="left"> <a href="https://twitter.com/workingwithali" target="blank"><img src="https://img.shields.io/twitter/follow/workingwithali?logo=twitter&style=for-the-badge" alt="workingwithali" /></a> </p>
-
-- 🌱 I’m currently learning **Next js**
-
-- 💬 Ask me about **MERN stack**
-
-- 📫 How to reach me **alirashid2020e@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/workingwithali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="workingwithali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/workingwithali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="workingwithali" height="30" width="40" /></a>
-<a href="https://instagram.com/livingwithali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="livingwithali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCuVKYKXR8KGGRqgzDo6B9zQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="workingwithali" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/workingwithali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="workingwithali" height="30" width="40" /></a>
+<p align="center">
+  <b>Ali Rashid</b><br/>
+  Software Engineering Student • AI • SaaS • Robotics • Business Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <i>Building systems, not just applications — focused on research, scalability, and real-world impact.</i>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workingwithali&show_icons=true&locale=en&layout=compact" alt="workingwithali" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=workingwithali&show_icons=true&locale=en" alt="workingwithali" /></p>
+## 🏷️ Profile Metrics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workingwithali&" alt="workingwithali" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0A192F&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=social" />
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-0A192F?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&title_color=0A192F&text_color=111827&icon_color=2563EB"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&title_color=0A192F"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&ring=0A192F&fire=2563EB&currStreakLabel=0A192F"/>
+</p>
+
+---
+
+## 📌 Academic Identity
+
+**Research & Insights** is a structured academic platform representing:
+
+* Analytical thinking
+* Research-driven problem solving
+* Scalable system design
+
+It is designed as a **digital research portfolio** for:
+
+* 🎓 Universities
+* 🏆 Scholarship committees
+* 🔬 Research professionals
+
+---
+
+## 🧠 Research Domains
+
+* Artificial Intelligence
+* SaaS Architecture
+* Robotics Systems
+* Business Infrastructure
+
+---
+
+## 🏗️ System Architecture
+
+**Frontend**
+
+* Next.js (App Router)
+* Tailwind CSS
+* ShadCN UI
+
+**Backend**
+
+* NestJS (Modular Architecture)
+
+**Database**
+
+* PostgreSQL
+* Prisma ORM
+
+---
+
+## 📈 Project Vision
+
+> To build a **globally competitive research identity system**
+> that reflects clarity, intelligence, and real-world impact.
+
+---
+
+## 🚀 Current Focus
+
+* Scalable SaaS systems
+* AI-powered applications
+* Business automation tools
+* Academic-level content creation
+
+---
+
+## 🧩 Philosophy
+
+> “Strong systems create strong outcomes.”
+
+I focus on:
+
+* Structure over noise
+* Depth over trends
+* Systems over shortcuts
+
+---
+
+## 📬 Connect
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Final Note
+
+This profile is not just a collection of projects.
+It is a **structured representation of thinking, research, and system design capability**.
+
+---
+
+⭐ *Designed with academic clarity and professional intent.*

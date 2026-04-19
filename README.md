@@ -36,7 +36,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&title_color=0A192F&text_color=111827&icon_color=2563EB"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=workingwithali&show_icons=true&theme=default&title_color=0A192F&text_color=111827&icon_color=2563EB"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workingwithali&layout=compact&theme=default&title_color=0A192F"/>
 </p>
 

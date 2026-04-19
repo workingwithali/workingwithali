@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&ring=0A192F&fire=2563EB&currStreakLabel=0A192F"/>
+  <img src="https://streak-stats.demolab.com?user=workingwithali&theme=default&ring=0A192F&fire=2563EB&currStreakLabel=0A192F"/>
 </p>
 
 ---

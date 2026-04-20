@@ -121,7 +121,7 @@ I focus on:
 ## 📬 Connect
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://alirashid-sigma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>

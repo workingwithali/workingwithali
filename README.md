@@ -133,6 +133,6 @@ I focus on:
 This profile is not just a collection of projects.
 It is a **structured representation of thinking, research, and system design capability**.
 
----
+
 
 ⭐ *Designed with academic clarity and professional intent.*

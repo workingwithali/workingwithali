@@ -6,12 +6,11 @@
   <img src="https://img.shields.io/github/stars/ali-rashid-dev?style=social" />
 </p>
 
----
+
 # 👨‍💻 Ali Rashid
 
 **Software Engineer & Researcher**
 
----
 
 ## 🏆 Achievements
 
@@ -19,7 +18,6 @@
 * 🌍 4+ International Hackathons
 * 🧠 CS50 Puzzle Day 2025
 * 💡 250+ LeetCode Problems Solved
-#
 
 ## 🚀 About Me
 

@@ -1,15 +1,12 @@
-## 🏷️ Profile Metrics
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-rashid-dev&color=0A192F&style=flat" />
-  <img src="https://img.shields.io/github/followers/ali-rashid-dev?style=social" />
-  <img src="https://img.shields.io/github/stars/ali-rashid-dev?style=social" />
-</p>
 
 
 <div align="center">
   <h1>👨‍💻 Ali Rashid</h1>
   <p><strong>Software Engineer & Researcher</strong></p>
+  <img src="https://komarev.com/ghpvc/?username=ali-rashid-dev&color=0A192F&style=flat" />
+  <img src="https://img.shields.io/github/followers/ali-rashid-dev?style=social" />
+  <img src="https://img.shields.io/github/stars/ali-rashid-dev?style=social" />
 </div>
 
 

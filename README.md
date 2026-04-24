@@ -74,7 +74,7 @@ I specialize in:
 <img src="https://img.shields.io/badge/MongoDB-065F46?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### 🤖 AI & Robotics
 
@@ -83,7 +83,7 @@ I specialize in:
 <img src="https://img.shields.io/badge/Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### 📈 Business & SaaS
 

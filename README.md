@@ -63,40 +63,37 @@ I specialize in:
 
 ## ⚙️ Tech Stack
 
+<div align="center">
 
-<p align="center">
-  <h1> 💻 Software Development</h1>
-  <div>
-  <img src="https://img.shields.io/badge/Next.js-0A192F?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-065F46?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </div>
-</p>
+### 💻 Software Development
 
+<img src="https://img.shields.io/badge/Next.js-0A192F?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-065F46?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<p align="center">
-  <h1>🤖 AI & Robotics</h1>
-  <div>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  </div>
-</p>
+<br/><br/>
 
+### 🤖 AI & Robotics
 
-<p align="center">
-<h1>📈 Business & SaaS</h1>
-  <div align="center">
-  <img src="https://img.shields.io/badge/Product%20Strategy-0A192F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Architecture-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project%20Management-065F46?style=for-the-badge"/>
-  </div>
-</p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+
+<br/><br/>
+
+### 📈 Business & SaaS
+
+<img src="https://img.shields.io/badge/Product%20Strategy-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Architecture-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Project%20Management-065F46?style=for-the-badge"/>
+
+</div>
+
 
 ---
 

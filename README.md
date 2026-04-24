@@ -10,16 +10,15 @@
 
 ## 🏆 Achievements
 
-* ⚡ Achieved **100+ WPM typing speed** — verify here → 👀 https://monkeytype.com/profile/ali-rashid
-* 🌍 Participated in **4+ international AI hackathons** → https://lablab.ai/u/@ali-rashid
+* ⚡ Achieved **100+ WPM typing speed** — verify here → 👀 [Monkeytype](https://monkeytype.com/profile/ali-rashid)
+* 🌍 Participated in **4+ international AI hackathons** → [lablab.ai](https://lablab.ai/u/@ali-rashid)
 * 🧠 Completed **CS50 Puzzle Day 2025 @ Harvard University**, strengthening problem-solving and analytical thinking
-* 💡 Solved **250+ Data Structures & Algorithms problems on LeetCode** → https://leetcode.com/u/ali-rashid-dev/
+* 💡 Solved **250+ Data Structures & Algorithms problems on [LeetCode](https://leetcode.com/u/ali-rashid-dev/)**
 * 🚀 Built and deployed **real-world full-stack systems** (SaaS, POS, startup platforms)
 * 🏗️ Designed **scalable architectures** across business systems and web platforms
 * 🤖 Actively exploring **AI, Robotics, and intelligent systems** for real-world applications
 
 ---
-
 
 ## 🚀 About Me
 

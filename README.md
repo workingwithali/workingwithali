@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
   <h1>👨‍💻 Ali Rashid</h1>
   <p><strong>Software Engineer & Researcher</strong></p>
@@ -12,10 +10,16 @@
 
 ## 🏆 Achievements
 
-* ⚡ 100+ WPM Typing Speed
-* 🌍 4+ International Hackathons
-* 🧠 CS50 Puzzle Day 2025
-* 💡 250+ LeetCode Problems Solved
+* ⚡ Achieved **100+ WPM typing speed** — verify here → 👀 https://monkeytype.com/profile/ali-rashid
+* 🌍 Participated in **4+ international AI hackathons** → https://lablab.ai/u/@ali-rashid
+* 🧠 Completed **CS50 Puzzle Day 2025 @ Harvard University**, strengthening problem-solving and analytical thinking
+* 💡 Solved **250+ Data Structures & Algorithms problems on LeetCode** → https://leetcode.com/u/ali-rashid-dev/
+* 🚀 Built and deployed **real-world full-stack systems** (SaaS, POS, startup platforms)
+* 🏗️ Designed **scalable architectures** across business systems and web platforms
+* 🤖 Actively exploring **AI, Robotics, and intelligent systems** for real-world applications
+
+---
+
 
 ## 🚀 About Me
 

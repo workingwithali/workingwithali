@@ -90,7 +90,7 @@ I specialize in:
 
 <p align="center">
 <h1>📈 Business & SaaS</h1>
-  <div>
+  <div align="center">
   <img src="https://img.shields.io/badge/Product%20Strategy-0A192F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System%20Architecture-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-111827?style=for-the-badge"/>
@@ -111,7 +111,6 @@ I specialize in:
   <img src="https://streak-stats.demolab.com?user=ali-rashid-dev&theme=default&ring=0A192F&fire=2563EB&currStreakLabel=0A192F"/>
 </p>
 
----
 
 ## 📬 Connect
 

@@ -1,3 +1,12 @@
+## 🏷️ Profile Metrics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ali-rashid-dev&color=0A192F&style=flat" />
+  <img src="https://img.shields.io/github/followers/ali-rashid-dev?style=social" />
+  <img src="https://img.shields.io/github/stars/ali-rashid-dev?style=social" />
+</p>
+
+---
 # 👨‍💻 Ali Rashid
 
 **Software Engineer & Researcher**
@@ -81,8 +90,6 @@ I specialize in:
   <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
 ### 🤖 AI & Robotics
 
 <p align="center">
@@ -91,8 +98,6 @@ I specialize in:
   <img src="https://img.shields.io/badge/Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 </p>
-
----
 
 ### 📈 Business & SaaS
 

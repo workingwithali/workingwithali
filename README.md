@@ -19,18 +19,7 @@
 * 🌍 4+ International Hackathons
 * 🧠 CS50 Puzzle Day 2025
 * 💡 250+ LeetCode Problems Solved
-
----
-
-## 🏷️ Profile Metrics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-rashid-dev&color=0A192F&style=flat" />
-  <img src="https://img.shields.io/github/followers/ali-rashid-dev?style=social" />
-  <img src="https://img.shields.io/github/stars/ali-rashid-dev?style=social" />
-</p>
-
----
+#
 
 ## 🚀 About Me
 

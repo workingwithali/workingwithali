@@ -7,7 +7,7 @@
 </p>
 
 
-# 👨‍💻 Ali Rashid
+: 👨‍💻 Ali Rashid:
 
 **Software Engineer & Researcher**
 

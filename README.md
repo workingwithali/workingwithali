@@ -7,9 +7,10 @@
 </p>
 
 
-: 👨‍💻 Ali Rashid:
-
-**Software Engineer & Researcher**
+<div align="center">
+  <h1>👨‍💻 Ali Rashid</h1>
+  <p><strong>Software Engineer & Researcher</strong></p>
+</div>
 
 
 ## 🏆 Achievements

@@ -65,7 +65,7 @@ I specialize in:
 
 
 <p align="center">
-### 💻 Software Development
+  <h1> 💻 Software Development</h1>
   <img src="https://img.shields.io/badge/Next.js-0A192F?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -76,7 +76,7 @@ I specialize in:
 
 
 <p align="center">
-### 🤖 AI & Robotics
+  <h1>🤖 AI & Robotics</h1>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -85,7 +85,7 @@ I specialize in:
 
 
 <p align="center">
-### 📈 Business & SaaS
+<h1>📈 Business & SaaS</h1>
   <img src="https://img.shields.io/badge/Product%20Strategy-0A192F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System%20Architecture-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-111827?style=for-the-badge"/>

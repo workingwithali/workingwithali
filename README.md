@@ -60,13 +60,12 @@ I specialize in:
 | 🔐 Auth System                  | Implement secure authentication                         | Complex auth flows and security handling               | Built a complete authentication system using modern best practices                 | https://nextauth-ivory-beta.vercel.app/                    | Next.js, NextAuth           |
 | 📦 Media Upload System          | Enable real-time media handling                         | Slow and unreliable file uploads                       | Integrated optimized media upload using CDN (ImageKit)                             | https://github.com/ali-rashid-dev/nextjs-imagekit-videoapp | Next.js, ImageKit           |
 
----
 
 ## ⚙️ Tech Stack
 
-### 💻 Software Development
 
 <p align="center">
+### 💻 Software Development
   <img src="https://img.shields.io/badge/Next.js-0A192F?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -75,18 +74,18 @@ I specialize in:
   <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🤖 AI & Robotics
 
 <p align="center">
+### 🤖 AI & Robotics
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 </p>
 
-### 📈 Business & SaaS
 
 <p align="center">
+### 📈 Business & SaaS
   <img src="https://img.shields.io/badge/Product%20Strategy-0A192F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System%20Architecture-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/UI%2FUX%20Design-111827?style=for-the-badge"/>

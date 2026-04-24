@@ -55,58 +55,16 @@ I specialize in:
 * Research-driven platforms
 
 ---
-
 ## 📊 Proof of Work
 
-### 🌐 Portfolio System
-
-🔗 https://alirashid-sigma.vercel.app/#
-**Stack:** Next.js, MongoDB
-
-* Built a dynamic, database-driven portfolio
-* Solved static portfolio limitations
-
----
-
-### 🧾 POS & Business System
-
-🔗 https://store-desk-gamma.vercel.app/
-**Stack:** Next.js, NestJS, PostgreSQL
-
-* Digitized sales, inventory, and billing
-* Designed scalable backend architecture
-
----
-
-### 💼 Software House Platform
-
-🔗 https://devhouse-nine.vercel.app/
-
-* Created a professional service-based platform
-
----
-
-### 🚀 Startup Incubator (YC-style)
-
-🔗 https://venture-forge-eta.vercel.app/
-
-* Built system for startup growth & validation
-
----
-
-### 🔐 Auth System
-
-🔗 https://nextauth-ivory-beta.vercel.app/
-
-* Implemented secure authentication with NextAuth
-
----
-
-### 📦 Media Upload System
-
-🔗 https://github.com/ali-rashid-dev/nextjs-imagekit-videoapp
-
-* Solved real-time media upload challenges using ImageKit
+| Project                         | Why Built                                               | Problem                                                | Solution                                                                           | Demo                                                       | Tech Stack                  |
+| ------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------- |
+| 🌐 Portfolio System             | Create a professional, scalable personal brand platform | Static portfolios lack flexibility and dynamic content | Built a full-stack dynamic portfolio with database-driven content                  | https://alirashid-sigma.vercel.app/#                       | Next.js, MongoDB            |
+| 🧾 POS & Business System        | Digitize real-world business operations                 | Manual tracking of sales, inventory, billing           | Developed a scalable POS system with backend architecture and database integration | https://store-desk-gamma.vercel.app/                       | Next.js, NestJS, PostgreSQL |
+| 💼 Software House Platform      | Establish a professional service presence               | Lack of structured digital presence for services       | Designed a clean, service-focused platform                                         | https://devhouse-nine.vercel.app/                          | Next.js, TailwindCSS        |
+| 🚀 Startup Incubator (YC-style) | Help startups validate and scale ideas                  | No centralized system for startup growth & investment  | Built a platform for idea validation, mentorship, and scaling systems              | https://venture-forge-eta.vercel.app/                      | Next.js, SaaS Architecture  |
+| 🔐 Auth System                  | Implement secure authentication                         | Complex auth flows and security handling               | Built a complete authentication system using modern best practices                 | https://nextauth-ivory-beta.vercel.app/                    | Next.js, NextAuth           |
+| 📦 Media Upload System          | Enable real-time media handling                         | Slow and unreliable file uploads                       | Integrated optimized media upload using CDN (ImageKit)                             | https://github.com/ali-rashid-dev/nextjs-imagekit-videoapp | Next.js, ImageKit           |
 
 ---
 
